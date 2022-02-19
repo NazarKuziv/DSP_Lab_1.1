@@ -5,7 +5,17 @@
       "ProjectGuid": "5d723439-23b1-41de-a7ea-2cd2999f03df",
       "DisplayName": "DSP_Lab_1.1",
       "ColorIndex": 0
+    },
+    "ed6c9afe-8ff9-45f5-9c90-44f3fccdd1ac": {
+      "ProjectGuid": "ed6c9afe-8ff9-45f5-9c90-44f3fccdd1ac",
+      "DisplayName": "UnitTest 1.1",
+      "ColorIndex": 1
+    },
+    "f0c68b8c-1bf4-442a-bf67-931262bd25d8": {
+      "ProjectGuid": "f0c68b8c-1bf4-442a-bf67-931262bd25d8",
+      "DisplayName": "UnitTest1.1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
